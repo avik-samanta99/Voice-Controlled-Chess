@@ -7,3 +7,14 @@ A voice controlled Chess game developed in C++ using SFML libraries for graphics
 
 <!-- ![Chess (2)](https://user-images.githubusercontent.com/42466938/132588516-1ecd746c-1c0c-41c0-a600-2dfb24b4998b.png)
  -->
+ 
+ ## To Run:
+
+- clone the repository in your local system
+- open `visual studio` (version 16.11 preferable)
+- download `SFML Libraries`, and make changes in the project dependencies
+- Build the project (or compile)
+- Go to the debug folder, run `voice_controlled_chess.exe`
+- You will see `speak` button on the top right corner, click it then speak the moves [i.e. e2e4]
+- The game will end by capturing the black or white king
+
